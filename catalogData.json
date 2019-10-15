@@ -5,7 +5,7 @@
     "price":1000
   },
   {
-    {"product_id":2,
+    "product_id":2,
     "product_name":"Display",
     "price":200
   },
@@ -20,7 +20,7 @@
     "price":10
   },
   {
-    {"product_id":5,
+    "product_id":5,
     "product_name":"Phones",
     "price":25
   },
