@@ -8,10 +8,5 @@
     "product_id":2,
     "product_name": "Display",
     "price":200
-  },
-  {
-    "product_id":3,
-    "product_name": "Keyboard",
-    "price":20
-  },
+  }
 ]
