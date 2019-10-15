@@ -1,5 +1,11 @@
 [
   {
+    "product_id":1,
+    "product_name":"Notebook",
+    "price":1000,
+    "img":"https://placehold.it/200x150"
+  },
+  {
     "id_product": 123,
     "product_name": "Ноутбук",
     "price": 45600
