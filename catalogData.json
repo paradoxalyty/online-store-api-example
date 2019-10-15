@@ -13,7 +13,7 @@
     "product_id":3,
     "product_name":"Keyboard",
     "price":20
-  }
+  },
     {
     "product_id":4,
     "product_name":"Mouse",
@@ -28,7 +28,7 @@
     "product_id":6,
     "product_name":"Router",
     "price":30
-  }
+  },
   {
     "product_id":7,
     "product_name":"USB-camera",
@@ -38,5 +38,5 @@
     "product_id":8,
     "product_name":"Gamepad",
     "price":24
-  }
+  },
 ]
